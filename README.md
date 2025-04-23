@@ -1,3 +1,8 @@
-# llmsys_s24_hw3
+# MiniTorch
+Step 1: Install Requirements
 
-Public repository for Assignment 3 of 11-868 LLM Systems.
+Install the required dependencies and miniTorch by running the following commands:
+
+pip install -r requirements.extra.txt
+pip install -r requirements.txt
+pip install -e .
